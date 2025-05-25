@@ -1,5 +1,5 @@
 
-# Ressposta paras os questionarios 1 e 2
+# Resposta para os questionarios 1 e 2
 
 
 ## 👨‍💻 Autor
